@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2025-11-22 09:18:09** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2025-11-23 09:40:05** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [California DMV approves map increase in Waymo driverless operations](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/)
-2. [Childhood Friends, Not Moms, Shape Attachment Styles Most](https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/)
-3. [Helping Valve to power up Steam devices](https://www.igalia.com/2025/11/helpingvalve.html)
-4. [Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker](https://wealthfolio.app/?v=2.0)
-5. [Samsung's 60% DRAM price hike signals a new phase of global memory tightening](https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/)
+1. [WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
+2. [We Induced Smells With Ultrasound](https://writetobrain.com/olfactory)
+3. [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
+4. [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
+5. [How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2025-11-22 09:18:09 <br>
+  Last Automated Update: 2025-11-23 09:40:05 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
