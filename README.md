@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2025-11-23 09:40:05** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2025-11-24 09:26:44** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)
-2. [We Induced Smells With Ultrasound](https://writetobrain.com/olfactory)
-3. [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)
-4. [Show HN: Forty.News – Daily news, but on a 40-year delay](https://forty.news)
-5. [How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries)
+1. [Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)
+2. [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
+3. [Show HN: I wrote a minimal memory allocator in C](https://github.com/t9nzin/memory)
+4. [µcad: New open source programming language that can generate 2D sketches and 3D](https://microcad.xyz/)
+5. [Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2025-11-23 09:40:05 <br>
+  Last Automated Update: 2025-11-24 09:26:44 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
