@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2025-11-26 09:22:03** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2025-11-27 09:20:39** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Reinventing how .NET builds and ships (again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)
-2. [A new bridge links the math of infinity to computer science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/)
-3. [What They Don't Tell You About Maintaining an Open Source Project](https://andrej.sh/blog/maintaining-open-source-project/)
-4. [Unifying our mobile and desktop domains](https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/)
-5. [Show HN: We built an open source, zero webhooks payment processor](https://github.com/flowglad/flowglad)
+1. [Bring Bathroom Doors Back to Hotels](https://bringbackdoors.com/)
+2. [Voyager 1 is about to reach one light-day from earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
+3. [Sutskever and LeCun: Scaling LLMs Won't Yield More Useful Results](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus)
+4. [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/)
+5. [S&box is now an open source game engine](https://sbox.game/news/update-25-11-26)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2025-11-26 09:22:03 <br>
+  Last Automated Update: 2025-11-27 09:20:39 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
