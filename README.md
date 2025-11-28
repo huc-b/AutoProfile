@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2025-11-27 09:20:39** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2025-11-28 09:19:56** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Bring Bathroom Doors Back to Hotels](https://bringbackdoors.com/)
-2. [Voyager 1 is about to reach one light-day from earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
-3. [Sutskever and LeCun: Scaling LLMs Won't Yield More Useful Results](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus)
-4. [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/)
-5. [S&box is now an open source game engine](https://sbox.game/news/update-25-11-26)
+1. [250MWh 'Sand Battery' to start construction in Finland](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/)
+2. [How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
+3. [Same-day upstream Linux support for Snapdragon 8 Elite Gen 5](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)
+4. [Vsora Jotunn-8 5nm European inference chip](https://vsora.com/products/jotunn-8/)
+5. [Physicists drive antihydrogen breakthrough at CERN](https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2025-11-27 09:20:39 <br>
+  Last Automated Update: 2025-11-28 09:19:56 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
