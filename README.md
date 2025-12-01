@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2025-11-30 09:39:20** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2025-12-01 09:46:21** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Bazzite: The next generation of Linux gaming](https://bazzite.gg/)
-2. [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)
-3. [Be Like Clippy](https://be-clippy.com/)
-4. [All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)
-5. [Dilution vs. Risk taking: Capital gains taxes and entrepreneurs](https://www.nber.org/papers/w34512)
+1. [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
+2. [Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)
+3. [Is America's jobs market nearing a cliff?](https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff)
+4. [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+5. [Advent of Code 2025](https://adventofcode.com/2025/about)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2025-11-30 09:39:20 <br>
+  Last Automated Update: 2025-12-01 09:46:21 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
