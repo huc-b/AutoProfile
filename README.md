@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2025-12-09 09:23:54** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2025-12-10 09:25:32** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)
-2. [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
-3. [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)
-4. [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
-5. [The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/)
+1. [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
+2. [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)
+3. [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
+4. [Mistral releases Devstral2 and Mistral Vibe CLI](https://mistral.ai/news/devstral-2-vibe-cli)
+5. [If you're going to vibe code, why not do it in C?](https://stephenramsay.net/posts/vibe-coding.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2025-12-09 09:23:54 <br>
+  Last Automated Update: 2025-12-10 09:25:32 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
