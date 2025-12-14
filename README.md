@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2025-12-13 09:21:26** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2025-12-14 09:40:15** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
-2. [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/)
-3. [GNU Unifont](https://unifoundry.com/unifont/index.html)
-4. [Rats Play DOOM](https://ratsplaydoom.com/)
-5. [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32)
+1. [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
+2. [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)
+3. [Why Twilio Segment moved from microservices back to a monolith](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
+4. [Recovering Anthony Bourdain's (really) lost Li.st's](https://sandyuraz.com/blogs/bourdain/)
+5. [I fed 24 years of my blog posts to a Markov model](https://susam.net/fed-24-years-of-posts-to-markov-model.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2025-12-13 09:21:26 <br>
+  Last Automated Update: 2025-12-14 09:40:15 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
