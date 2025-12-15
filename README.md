@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2025-12-14 09:40:15** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2025-12-15 09:28:31** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
-2. [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)
-3. [Why Twilio Segment moved from microservices back to a monolith](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
-4. [Recovering Anthony Bourdain's (really) lost Li.st's](https://sandyuraz.com/blogs/bourdain/)
-5. [I fed 24 years of my blog posts to a Markov model](https://susam.net/fed-24-years-of-posts-to-markov-model.html)
+1. [Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services](https://status.claude.com/incidents/9g6qpr72ttbr)
+2. [2002: Last.fm and Audioscrobbler Herald the Social Web](https://cybercultural.com/p/lastfm-audioscrobbler-2002/)
+3. [CapROS: The Capability-Based Reliable Operating System](https://www.capros.org/)
+4. [JSDoc is TypeScript](https://culi.bearblog.dev/jsdoc-is-typescript/)
+5. [Hashcards: A plain-text spaced repetition system](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2025-12-14 09:40:15 <br>
+  Last Automated Update: 2025-12-15 09:28:31 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
