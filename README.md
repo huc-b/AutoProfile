@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2025-12-16 09:26:55** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2025-12-17 09:21:56** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders](https://quill-os.org/)
-2. [Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable](https://johnlian.net/posts/hdmi-cec/)
-3. [Nature's many attempts to evolve a Nostr](https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a)
-4. [Ideas Aren't Getting Harder to Find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find)
-5. [“Are you the one?” is free money](https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/)
+1. [AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+2. [alpr.watch](https://alpr.watch/)
+3. [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
+4. [Announcing the Beta release of ty](https://astral.sh/blog/ty)
+5. [GPT Image 1.5](https://openai.com/index/new-chatgpt-images-is-here/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2025-12-16 09:26:55 <br>
+  Last Automated Update: 2025-12-17 09:21:56 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
