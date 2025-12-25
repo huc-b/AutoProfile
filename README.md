@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2025-12-24 09:25:03** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2025-12-25 09:26:10** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
-2. [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
-3. [Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/)
-4. [Is Northern Virginia still the least reliable AWS region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/)
-5. [Learn Lisp/Fennel Programming Against Neovim](https://github.com/humorless/fennel-fp-neovim)
+1. [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
+2. [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=46380168)
+3. [Microsoft please get your tab to autocomplete shit together](https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/)
+4. [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)
+5. [Show HN: Minimalist editor that lives in browser, stores everything in the URL](https://github.com/antonmedv/textarea)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2025-12-24 09:25:03 <br>
+  Last Automated Update: 2025-12-25 09:26:10 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
