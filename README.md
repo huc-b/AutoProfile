@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2025-12-26 09:26:28** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2025-12-27 09:24:26** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
-2. [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
-3. [Memory Safety](https://www.memorysafety.org/)
-4. [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
-5. [Fahrplan – 39C3](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
+1. [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
+2. [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html)
+3. [The Best Things and Stuff of 2025](https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html)
+4. [Experts explore new mushroom which causes fairytale-like hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations)
+5. [How Lewis Carroll computed determinants (2023)](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2025-12-26 09:26:28 <br>
+  Last Automated Update: 2025-12-27 09:24:26 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
