@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2025-12-28 09:44:46** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2025-12-29 09:43:27** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
-2. [How we lost communication to entertainment](https://ploum.net/2025-12-15-communication-entertainment.html)
-3. [Why Reliability Demands Functional Programming](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure)
-4. [Floor796](https://floor796.com/)
-5. [Project Vend: Phase Two](https://www.anthropic.com/research/project-vend-2)
+1. [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
+2. [Stepping down as Mockito maintainer after 10 years](https://github.com/mockito/mockito/issues/3777)
+3. [Unity's Mono problem: Why your C# code runs slower than it should](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)
+4. [62 years in the making: NYC's newest water tunnel nears the finish line](https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-)
+5. [PySDR: A Guide to SDR and DSP Using Python](https://pysdr.org/content/intro.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2025-12-28 09:44:46 <br>
+  Last Automated Update: 2025-12-29 09:43:27 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
