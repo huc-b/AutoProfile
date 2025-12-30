@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2025-12-29 09:43:27** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2025-12-30 09:26:57** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
-2. [Stepping down as Mockito maintainer after 10 years](https://github.com/mockito/mockito/issues/3777)
-3. [Unity's Mono problem: Why your C# code runs slower than it should](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)
-4. [62 years in the making: NYC's newest water tunnel nears the finish line](https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-)
-5. [PySDR: A Guide to SDR and DSP Using Python](https://pysdr.org/content/intro.html)
+1. [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
+2. [Show HN: Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
+3. [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
+4. [Geology of the Gulf of the Farallones National Marine Sanctuary](https://pubs.usgs.gov/fs/farallones/)
+5. [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2025-12-29 09:43:27 <br>
+  Last Automated Update: 2025-12-30 09:26:57 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
