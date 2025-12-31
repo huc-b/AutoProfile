@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2025-12-30 09:26:57** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2025-12-31 09:27:40** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
-2. [Show HN: Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)
-3. [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)
-4. [Geology of the Gulf of the Farallones National Marine Sanctuary](https://pubs.usgs.gov/fs/farallones/)
-5. [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html)
+1. [A faster heart for F-Droid. Our new server is here](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
+2. [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
+3. [Project ideas to appreciate the art of programming](https://codecrafters.io/blog/programming-project-ideas)
+4. [Show HN: 22 GB of Hacker News in SQLite](https://hackerbook.dosaygo.com)
+5. [A Vulnerability in Libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2025-12-30 09:26:57 <br>
+  Last Automated Update: 2025-12-31 09:27:40 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
