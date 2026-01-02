@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-01 09:45:56** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-02 09:28:24** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
-2. [Nerd: The First Programming Language Not Built for Humans](https://www.nerd-lang.org/about)
-3. [Scientists unlock brain's natural clean-up system for new treatments for stroke](https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases)
-4. [Warren Buffett steps down as Berkshire Hathaway CEO after six decades](https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades)
-5. [I canceled my book deal](https://austinhenley.com/blog/canceledbookdeal.html)
+1. [A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
+2. [Can Bundler be as fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
+3. [Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)
+4. [Cameras and Lenses (2020)](https://ciechanow.ski/cameras-and-lenses/)
+5. [Linux is good now](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-01 09:45:56 <br>
+  Last Automated Update: 2026-01-02 09:28:24 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
