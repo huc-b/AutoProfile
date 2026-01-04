@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-03 09:23:40** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-04 09:46:07** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
-2. [Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#)
-3. [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
-4. [NY Fed cash transfers to banks increase dramatically in Q4 2025](https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/)
-5. [Unix v4 (1973) – Live Terminal](https://unixv4.dev/)
+1. [Total monthly number of StackOverflow questions over time](https://data.stackexchange.com/stackoverflow/query/1926661#graph)
+2. [The suck is why we're here](https://nik.art/the-suck-is-why-were-here/)
+3. [Swift on Android: Full Native App Development Now Possible](https://docs.swifdroid.com/app/)
+4. [The Most Popular Blogs of Hacker News in 2025](https://refactoringenglish.com/blog/2025-hn-top-5/)
+5. [Ed25519-CLI – command-line interface for the Ed25519 signature system](https://lib25519.cr.yp.to/ed25519-cli.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-03 09:23:40 <br>
+  Last Automated Update: 2026-01-04 09:46:07 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
