@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-05 09:45:59** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-06 09:28:07** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)
-2. [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
-3. [Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)
-4. [The Unbearable Joy of Sitting Alone in a Café](https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/)
-5. [Eurostar AI vulnerability: When a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/)
+1. [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
+2. [Worlds's first all-solid-state battery ready to power up production vehicles now](https://www.donutlab.com/ces-battery-announcement/)
+3. [Six-decade math puzzle solved by Korean mathematician](https://www.koreaherald.com/article/10648326)
+4. [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
+5. [Strange.website](https://strange.website/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-05 09:45:59 <br>
+  Last Automated Update: 2026-01-06 09:28:07 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
