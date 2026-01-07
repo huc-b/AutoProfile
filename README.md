@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-06 09:28:07** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-07 09:28:18** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
-2. [Worlds's first all-solid-state battery ready to power up production vehicles now](https://www.donutlab.com/ces-battery-announcement/)
-3. [Six-decade math puzzle solved by Korean mathematician](https://www.koreaherald.com/article/10648326)
-4. [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
-5. [Strange.website](https://strange.website/)
+1. [Spherical Snake](https://kevinalbs.com/spherical_snake/)
+2. [The Data Center Boom Is Concentrated in the U.S.](https://spectrum.ieee.org/data-center-growth)
+3. [Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)
+4. [Oral microbiome sequencing after taking probiotics](https://blog.booleanbiotech.com/oral-microbiome-biogaia)
+5. [Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]](https://www.youtube.com/watch?v=9e0SQn9uUlw)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-06 09:28:07 <br>
+  Last Automated Update: 2026-01-07 09:28:18 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
