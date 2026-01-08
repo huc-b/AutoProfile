@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-07 09:28:18** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-08 09:38:14** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Spherical Snake](https://kevinalbs.com/spherical_snake/)
-2. [The Data Center Boom Is Concentrated in the U.S.](https://spectrum.ieee.org/data-center-growth)
-3. [Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)
-4. [Oral microbiome sequencing after taking probiotics](https://blog.booleanbiotech.com/oral-microbiome-biogaia)
-5. [Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]](https://www.youtube.com/watch?v=9e0SQn9uUlw)
+1. [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
+2. [Sugar industry influenced researchers and blamed fat for CVD (2016)](https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus)
+3. [Don't Let the Grocery Store Scan Your Face: How to Stop Wegmans](https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/)
+4. [Eat Real Food](https://realfood.gov)
+5. [Shipmap.org](https://www.shipmap.org/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-07 09:28:18 <br>
+  Last Automated Update: 2026-01-08 09:38:14 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
