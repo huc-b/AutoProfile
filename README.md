@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-08 09:38:14** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-09 09:38:19** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
-2. [Sugar industry influenced researchers and blamed fat for CVD (2016)](https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus)
-3. [Don't Let the Grocery Store Scan Your Face: How to Stop Wegmans](https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/)
-4. [Eat Real Food](https://realfood.gov)
-5. [Shipmap.org](https://www.shipmap.org/)
+1. [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
+2. [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
+3. [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
+4. [Bose has released API docs and opened the API for its EoL SoundTouch speakers](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)
+5. [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-08 09:38:14 <br>
+  Last Automated Update: 2026-01-09 09:38:19 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
