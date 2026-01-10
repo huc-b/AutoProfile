@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-09 09:38:19** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-10 09:26:33** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)
-2. [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
-3. [Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)
-4. [Bose has released API docs and opened the API for its EoL SoundTouch speakers](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)
-5. [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi (2017)](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/)
+1. ["Erdos problem #728 was solved more or less autonomously by AI"](https://mathstodon.xyz/@tao/115855840223258103)
+2. [JavaScript Demos in 140 Characters](https://beta.dwitter.net)
+3. [RTX 5090 and Raspberry Pi: Can it game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/)
+4. [Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times](https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure)
+5. [Caltrain shows why every region should be moving toward regional rail](https://www.hsrail.org/blog/caltrain-shows-why-every-region-should-be-moving-toward-regional-rail/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-09 09:38:19 <br>
+  Last Automated Update: 2026-01-10 09:26:33 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
