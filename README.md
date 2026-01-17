@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-16 09:38:51** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-17 09:25:30** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
-2. [Pocket TTS: A high quality TTS that gives your CPU a voice](https://kyutai.org/blog/2026-01-13-pocket-tts)
-3. [Inside The Internet Archive's Infrastructure](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
-4. [Linux boxes via SSH: suspended when disconected](https://shellbox.dev/)
-5. [Ask HN: How can we solve the loneliness epidemic?](https://news.ycombinator.com/item?id=46635345)
+1. [East Germany balloon escape](https://en.wikipedia.org/wiki/East_Germany_balloon_escape)
+2. [Cloudflare acquires Astro](https://astro.build/blog/joining-cloudflare/)
+3. [Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)
+4. [LLM Structured Outputs Handbook](https://nanonets.com/cookbooks/structured-llm-outputs)
+5. [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-16 09:38:51 <br>
+  Last Automated Update: 2026-01-17 09:25:30 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
