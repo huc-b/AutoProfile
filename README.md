@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-17 09:25:30** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-18 09:44:41** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [East Germany balloon escape](https://en.wikipedia.org/wiki/East_Germany_balloon_escape)
-2. [Cloudflare acquires Astro](https://astro.build/blog/joining-cloudflare/)
-3. [Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)
-4. [LLM Structured Outputs Handbook](https://nanonets.com/cookbooks/structured-llm-outputs)
-5. [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
+1. [If you put Apple icons in reverse it looks like someone getting good at design](https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1)
+2. [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
+3. [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
+4. [Xous Operating System](https://xous.dev/)
+5. [We put Claude Code in Rollercoaster Tycoon](https://labs.ramp.com/rct)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-17 09:25:30 <br>
+  Last Automated Update: 2026-01-18 09:44:41 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
