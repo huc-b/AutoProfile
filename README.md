@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-18 09:44:41** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-19 09:43:19** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [If you put Apple icons in reverse it looks like someone getting good at design](https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1)
-2. [A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)
-3. [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
-4. [Xous Operating System](https://xous.dev/)
-5. [We put Claude Code in Rollercoaster Tycoon](https://labs.ramp.com/rct)
+1. [Gaussian Splatting – A$AP Rocky "Helicopter" music video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting)
+2. [Prediction: Microsoft Is Going to Do the Funniest Thing Imaginable](https://gamesbymason.com/blog/2026/microsoft/)
+3. [Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c)
+4. [Fil-Qt: A Qt Base build with Fil-C experience](https://git.qt.io/cradam/fil-qt)
+5. [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-18 09:44:41 <br>
+  Last Automated Update: 2026-01-19 09:43:19 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
