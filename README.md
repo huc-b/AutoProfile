@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-20 09:28:44** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-21 09:41:38** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Level S4 solar radiation event](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026)
-2. [Porsche Sold More Electrified Cars in Europe in 2025 Than Pure Gas-Powered Cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html)
-3. [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
-4. [Nearly a third of social media research has undisclosed ties to industry](https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims)
-5. [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
+1. [A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
+2. [Claude Chill: Fix Claude Code's Flickering in Terminal](https://github.com/davidbeesley/claude-chill)
+3. [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)
+4. [Instabridge has acquired Nova Launcher](https://novalauncher.com/nova-is-here-to-stay)
+5. [Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs](https://github.com/mastra-ai/mastra)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-20 09:28:44 <br>
+  Last Automated Update: 2026-01-21 09:41:38 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
