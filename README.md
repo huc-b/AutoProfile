@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-24 09:26:53** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-25 09:47:41** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
-2. [New YC homepage](https://www.ycombinator.com/)
-3. [Gas Town's agent patterns, design bottlenecks, and vibecoding at scale](https://maggieappleton.com/gastown)
-4. [Some C habits I employ for the modern day](https://www.unix.dog/~yosh/blog/c-habits-for-me.html)
-5. [Proof of Corn](https://proofofcorn.com/)
+1. [BirdyChat becomes first European chat app that is interoperable with WhatsApp](https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp)
+2. [We X-Rayed a Suspicious FTDI USB Cable](https://eclypsium.com/blog/xray-counterfeit-usb-cable/)
+3. [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+4. [Tesla unsupervised Robotaxis are nowhere to be found](https://lightbrd.com/ZacksJerryRig/status/2015119993428705575#m)
+5. [Postmortem: Our first VLEO satellite mission (with imagery and flight data)](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-24 09:26:53 <br>
+  Last Automated Update: 2026-01-25 09:47:41 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
