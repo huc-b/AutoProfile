@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-25 09:47:41** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-26 09:47:08** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [BirdyChat becomes first European chat app that is interoperable with WhatsApp](https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp)
-2. [We X-Rayed a Suspicious FTDI USB Cable](https://eclypsium.com/blog/xray-counterfeit-usb-cable/)
-3. [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
-4. [Tesla unsupervised Robotaxis are nowhere to be found](https://lightbrd.com/ZacksJerryRig/status/2015119993428705575#m)
-5. [Postmortem: Our first VLEO satellite mission (with imagery and flight data)](https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next)
+1. [Over 36,500 killed in Iran's deadliest massacre, documents reveal](https://www.iranintl.com/en/202601255198)
+2. [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot)
+3. [First, make me care](https://gwern.net/blog/2026/make-me-care)
+4. [Scientists identify brain waves that define the limits of 'you'](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you)
+5. [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-25 09:47:41 <br>
+  Last Automated Update: 2026-01-26 09:47:08 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
