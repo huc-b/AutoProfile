@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-26 09:47:08** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-27 09:44:29** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Over 36,500 killed in Iran's deadliest massacre, documents reveal](https://www.iranintl.com/en/202601255198)
-2. [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot)
-3. [First, make me care](https://gwern.net/blog/2026/make-me-care)
-4. [Scientists identify brain waves that define the limits of 'you'](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you)
-5. [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr)
+1. [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
+2. [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html)
+3. [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
+4. [The Hidden Engineering of Runways](https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways)
+5. [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-26 09:47:08 <br>
+  Last Automated Update: 2026-01-27 09:44:29 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
