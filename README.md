@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-27 09:44:29** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-28 09:41:12** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
-2. [AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html)
-3. [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
-4. [The Hidden Engineering of Runways](https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways)
-5. [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54)
+1. [Prism](https://openai.com/index/introducing-prism)
+2. [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
+3. [Rust’s Standard Library on the GPU](https://www.vectorware.com/blog/rust-std-on-gpu/)
+4. [A few random notes from Claude coding quite a bit last few weeks](https://twitter.com/karpathy/status/2015883857489522876)
+5. [Time Station Emulator](https://github.com/kangtastic/timestation)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-27 09:44:29 <br>
+  Last Automated Update: 2026-01-28 09:41:12 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
