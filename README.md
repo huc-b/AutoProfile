@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-28 09:41:12** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-29 09:53:03** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Prism](https://openai.com/index/introducing-prism)
-2. [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
-3. [Rust’s Standard Library on the GPU](https://www.vectorware.com/blog/rust-std-on-gpu/)
-4. [A few random notes from Claude coding quite a bit last few weeks](https://twitter.com/karpathy/status/2015883857489522876)
-5. [Time Station Emulator](https://github.com/kangtastic/timestation)
+1. [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
+2. [Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k](https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/)
+3. [The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)
+4. [Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
+5. [Trinity large: An open 400B sparse MoE model](https://www.arcee.ai/blog/trinity-large)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-28 09:41:12 <br>
+  Last Automated Update: 2026-01-29 09:53:03 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
