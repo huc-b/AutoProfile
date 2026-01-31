@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-01-30 09:53:13** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-01-31 09:49:27** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
-2. [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
-3. [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
-4. [Claude Code daily benchmarks for degradation tracking](https://marginlab.ai/trackers/claude-code/)
-5. [Drug trio found to block tumour resistance in pancreatic cancer](https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/)
+1. [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
+2. [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
+3. [Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)
+4. [Stonebraker on CAP theorem and Databases](https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/)
+5. [The $100B Megadeal Between OpenAI and Nvidia Is on Ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-01-30 09:53:13 <br>
+  Last Automated Update: 2026-01-31 09:49:27 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
