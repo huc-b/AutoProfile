@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-02-06 09:54:47** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-02-07 09:51:32** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
-2. [It's 2026, Just Use Postgres](https://www.tigerdata.com/blog/its-2026-just-use-postgres)
-3. [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
-4. [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
-5. [We tasked Opus 4.6 using agent teams to build a C Compiler](https://www.anthropic.com/engineering/building-c-compiler)
+1. [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
+2. [The Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
+3. [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo)
+4. [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
+5. [Show HN: I spent 4 years building a UI design tool with only the features I use](https://vecti.com)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-02-06 09:54:47 <br>
+  Last Automated Update: 2026-02-07 09:51:32 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
