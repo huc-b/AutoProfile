@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-02-09 10:02:46** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-02-10 10:12:23** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [In the AI gold rush, tech firms are embracing 72-hour weeks](https://www.bbc.com/news/articles/cvgn2k285ypo)
-2. [Vouch](https://github.com/mitchellh/vouch)
-3. [Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)
-4. [More Mac malware from Google search](https://eclecticlight.co/2026/01/30/more-malware-from-google-search/)
-5. [Reverse Engineering the Prom for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
+1. [Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
+2. [What Functional Programmers Get Wrong About Systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
+3. [The shadowy world of abandoned oil tankers](https://www.bbc.com/news/articles/cddg885344do)
+4. [Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
+5. [Why is the sky blue?](https://explainers.blog/posts/why-is-the-sky-blue/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-02-09 10:02:46 <br>
+  Last Automated Update: 2026-02-10 10:12:23 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
