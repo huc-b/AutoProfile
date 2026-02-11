@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-02-10 10:12:23** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-02-11 10:08:37** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
-2. [What Functional Programmers Get Wrong About Systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
-3. [The shadowy world of abandoned oil tankers](https://www.bbc.com/news/articles/cddg885344do)
-4. [Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
-5. [Why is the sky blue?](https://explainers.blog/posts/why-is-the-sky-blue/)
+1. [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
+2. [The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)
+3. [The Singularity will occur on a Tuesday](https://campedersen.com/singularity)
+4. [Ex-GitHub CEO launches a new developer platform for AI agents](https://entire.io/blog/hello-entire-world/)
+5. [Willow – Protocols for an uncertain future [video]](https://fosdem.org/2026/schedule/event/CVGZAV-willow/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-02-10 10:12:23 <br>
+  Last Automated Update: 2026-02-11 10:08:37 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
