@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-02-11 10:08:37** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-02-12 10:02:01** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
-2. [The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)
-3. [The Singularity will occur on a Tuesday](https://campedersen.com/singularity)
-4. [Ex-GitHub CEO launches a new developer platform for AI agents](https://entire.io/blog/hello-entire-world/)
-5. [Willow – Protocols for an uncertain future [video]](https://fosdem.org/2026/schedule/event/CVGZAV-willow/)
+1. [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
+2. [GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012)
+3. [Fluorite – A console-grade game engine fully integrated with Flutter](https://fluorite.game/)
+4. ["Nothing" is the secret to structuring your work](https://www.vangemert.dev/blog/nothing)
+5. [Text classification with Python 3.14's ZSTD module](https://maxhalford.github.io/blog/text-classification-zstd/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-02-11 10:08:37 <br>
+  Last Automated Update: 2026-02-12 10:02:01 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
