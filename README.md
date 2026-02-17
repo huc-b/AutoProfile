@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-02-16 09:59:58** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-02-17 09:57:58** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
-2. [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)
-3. [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)
-4. [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
-5. [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
+1. [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
+2. [Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670)
+3. [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)
+4. [AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+5. [Show HN: Andrej Karpathy's microgpt.py to C99 microgpt.c – 4,600x faster](https://github.com/enjector/microgpt-c)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-02-16 09:59:58 <br>
+  Last Automated Update: 2026-02-17 09:57:58 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
