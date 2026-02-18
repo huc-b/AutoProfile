@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-02-17 09:57:58** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-02-18 10:01:23** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)
-2. [Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670)
-3. [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)
-4. [AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
-5. [Show HN: Andrej Karpathy's microgpt.py to C99 microgpt.c – 4,600x faster](https://github.com/enjector/microgpt-c)
+1. [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
+2. [Advice, not control: the role of Remote Assistance in Waymo's operations](https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance)
+3. [Thank HN: You helped save 33k lives](https://news.ycombinator.com/item?id=47049824)
+4. [BarraCUDA Open-source CUDA compiler targeting AMD GPUs](https://github.com/Zaneham/BarraCUDA)
+5. [Rathbun's Operator](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-02-17 09:57:58 <br>
+  Last Automated Update: 2026-02-18 10:01:23 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
