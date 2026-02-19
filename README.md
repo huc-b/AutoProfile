@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-02-18 10:01:23** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-02-19 10:00:19** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
-2. [Advice, not control: the role of Remote Assistance in Waymo's operations](https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance)
-3. [Thank HN: You helped save 33k lives](https://news.ycombinator.com/item?id=47049824)
-4. [BarraCUDA Open-source CUDA compiler targeting AMD GPUs](https://github.com/Zaneham/BarraCUDA)
-5. [Rathbun's Operator](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html)
+1. [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
+2. [Ladybird: Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933)
+3. [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)
+4. [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/)
+5. [Zero-day CSS: CVE-2026-2441 exists in the wild](https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-02-18 10:01:23 <br>
+  Last Automated Update: 2026-02-19 10:00:19 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
