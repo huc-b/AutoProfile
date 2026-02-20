@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-02-19 10:00:19** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-02-20 09:55:55** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
-2. [Ladybird: Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933)
-3. [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)
-4. [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/)
-5. [Zero-day CSS: CVE-2026-2441 exists in the wild](https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html)
+1. [Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
+2. [Show HN: Micasa – track your house from the terminal](https://micasa.dev)
+3. [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)
+4. [America vs. Singapore: You can't save your way out of economic shocks](https://www.governance.fyi/p/america-vs-singapore-you-cant-save)
+5. [A terminal weather app with ASCII animations driven by real-time weather data](https://github.com/Veirt/weathr)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-02-19 10:00:19 <br>
+  Last Automated Update: 2026-02-20 09:55:55 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
