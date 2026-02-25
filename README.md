@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-02-24 09:57:24** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-02-25 09:59:47** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album)
-2. [FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
-3. [I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)
-4. [UNIX99, a UNIX-like OS for the TI-99/4A](https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/)
-5. [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
+1. [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
+2. [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)
+3. [Mercury 2: The fastest reasoning LLM, powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2)
+4. [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/)
+5. [Mac mini will be made at a new facility in Houston](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-02-24 09:57:24 <br>
+  Last Automated Update: 2026-02-25 09:59:47 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
