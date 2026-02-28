@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-02-27 09:54:19** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-02-28 09:45:24** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
-2. [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)
-3. [AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
-4. [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)
-5. [What Claude Code Chooses](https://amplifying.ai/research/claude-code-picks)
+1. [We Will Not Be Divided](https://notdivided.org)
+2. [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070)
+3. [Not Found](https://www.anthropic.com/news/statement-comments-secretary-war)
+4. [Smallest transformer that can add two 10-digit numbers](https://github.com/anadim/AdderBoard)
+5. [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-02-27 09:54:19 <br>
+  Last Automated Update: 2026-02-28 09:45:24 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
