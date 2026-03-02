@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-03-01 10:06:34** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-03-02 09:57:29** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)
-2. [The Windows 95 user interface: A case study in usability engineering (1996)](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611)
-3. [MinIO Is Dead, Long Live MinIO](https://blog.vonng.com/en/db/minio-resurrect/)
-4. [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
-5. [The happiest I've ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been)
+1. [How to talk to anyone, and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)
+2. [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
+3. [Tove Jansson's criticized illustrations of The Hobbit](https://tovejansson.com/hobbit-tolkien/)
+4. [Ghostty – Terminal Emulator](https://ghostty.org/docs)
+5. [Little Free Library Books](https://littlefreelibrary.org/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-03-01 10:06:34 <br>
+  Last Automated Update: 2026-03-02 09:57:29 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
