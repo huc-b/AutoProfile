@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-03-02 09:57:29** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-03-03 09:59:26** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [How to talk to anyone, and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)
-2. [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)
-3. [Tove Jansson's criticized illustrations of The Hobbit](https://tovejansson.com/hobbit-tolkien/)
-4. [Ghostty – Terminal Emulator](https://ghostty.org/docs)
-5. [Little Free Library Books](https://littlefreelibrary.org/)
+1. [The workers behind Meta’s smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+2. [Seed of Might Color Correction Process (2023) [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)
+3. [Closure of the Weatheradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)
+4. [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent)
+5. [Welcome (back) to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-03-02 09:57:29 <br>
+  Last Automated Update: 2026-03-03 09:59:26 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
