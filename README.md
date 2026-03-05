@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-03-04 09:53:40** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-03-05 09:56:28** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [2,218 Gary Marcus AI claims scored against evidence (dataset)](https://github.com/davegoldblatt/marcus-claims-dataset)
-2. [MacBook Pro with M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/)
-3. [Lenovo's New ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)
-4. [Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update)
-5. [Claude's Cycles [pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
+1. [MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
+2. [Building a new Flash](https://bill.newgrounds.com/news/post/1607118)
+3. [Googleworkspace/CLI](https://github.com/googleworkspace/cli)
+4. [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
+5. [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-03-04 09:53:40 <br>
+  Last Automated Update: 2026-03-05 09:56:28 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
