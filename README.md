@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-03-06 09:57:17** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-03-07 09:49:22** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [CBP tapped into the online advertising ecosystem to track peoples’ movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/)
-2. [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war)
-3. [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
-4. [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/)
-5. [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/)
+1. [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
+2. [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
+3. [C# strings silently kill your SQL Server indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)
+4. [The Shady World of IP Leasing](https://acid.vegas/blog/the-shady-world-of-ip-leasing/)
+5. [Hardening Firefox with Anthropic's Red Team](https://www.anthropic.com/news/mozilla-firefox-security)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-03-06 09:57:17 <br>
+  Last Automated Update: 2026-03-07 09:49:22 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
