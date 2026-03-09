@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-03-08 09:57:46** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-03-09 09:59:11** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
-2. [CasNum](https://github.com/0x0mer/CasNum)
-3. [Science Fiction Is Dying. Long Live Post Sci-Fi?](https://www.typebarmagazine.com/science-fiction-is-dying-long-live-post-sci-fi/)
-4. [A decade of Docker containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
-5. [Dumping Lego NXT firmware off of an existing brick (2025)](https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html)
+1. [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
+2. [Microscopes can see video on a laserdisc](https://www.youtube.com/watch?v=qZuR-772cks)
+3. [PCB devboard the size of a USB-C plug](https://github.com/Dieu-de-l-elec/AngstromIO-devboard)
+4. [Ask HN: What Are You Working On? (March 2026)](https://news.ycombinator.com/item?id=47303111)
+5. [Blacksky AppView](https://github.com/blacksky-algorithms/atproto)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-03-08 09:57:46 <br>
+  Last Automated Update: 2026-03-09 09:59:11 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
