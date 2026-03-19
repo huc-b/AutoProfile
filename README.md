@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-03-18 10:02:08** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-03-19 10:03:12** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
-2. [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
-3. [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)
-4. [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done)
-5. [Show HN: Sub-millisecond VM sandboxes using CoW memory forking](https://github.com/adammiribyan/zeroboot)
+1. [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
+2. [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat)
+3. [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
+4. [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
+5. [Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training](https://github.com/alainnothere/llm-circuit-finder)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-03-18 10:02:08 <br>
+  Last Automated Update: 2026-03-19 10:03:12 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
