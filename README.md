@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-03-19 10:03:12** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-03-20 09:57:26** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
-2. [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat)
-3. [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
-4. [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
-5. [Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training](https://github.com/alainnothere/llm-circuit-finder)
+1. [Claude Code: Channels](https://code.claude.com/docs/en/channels)
+2. [Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)
+3. [Astral to Join OpenAI](https://astral.sh/blog/openai)
+4. [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/)
+5. [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-03-19 10:03:12 <br>
+  Last Automated Update: 2026-03-20 09:57:26 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
