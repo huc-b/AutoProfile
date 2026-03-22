@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-03-21 09:51:16** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-03-22 10:03:40** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [OpenCode – Open source AI coding agent](https://opencode.ai/)
-2. [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
-3. [We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster](https://www.openui.com/blog/rust-wasm-parser)
-4. [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e)
-5. [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+1. [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox)
+2. [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
+3. [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
+4. [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/)
+5. [Boomloom: Think with your hands](https://www.theboomloom.com)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-03-21 09:51:16 <br>
+  Last Automated Update: 2026-03-22 10:03:40 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
