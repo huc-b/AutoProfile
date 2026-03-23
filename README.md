@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-03-22 10:03:40** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-03-23 10:04:30** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox)
-2. [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)
-3. [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
-4. [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/)
-5. [Boomloom: Think with your hands](https://www.theboomloom.com)
+1. [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
+2. [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
+3. [The future of version control](https://bramcohen.com/p/manyana)
+4. [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision)
+5. [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-03-22 10:03:40 <br>
+  Last Automated Update: 2026-03-23 10:04:30 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
