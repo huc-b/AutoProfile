@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-03-28 10:00:18** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-03-29 10:11:32** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/)
-2. [Don't YOLO your file system](https://jai.scs.stanford.edu/)
-3. [Improving Composer through real-time RL](https://cursor.com/blog/real-time-rl-for-composer)
-4. [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/)
-5. [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio)
+1. [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
+2. [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
+3. [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/)
+4. [OpenBSD on Motorola 88000 Processors](http://miod.online.fr/software/openbsd/stories/m88k1.html)
+5. [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-03-28 10:00:18 <br>
+  Last Automated Update: 2026-03-29 10:11:32 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
