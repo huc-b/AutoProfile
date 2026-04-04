@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-04-03 10:07:20** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-04-04 09:59:53** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
-2. [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
-3. [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape)
-4. [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/)
-5. [Cursor 3](https://cursor.com/blog/cursor-3)
+1. [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
+2. [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
+3. [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos)
+4. [iNaturalist](https://www.inaturalist.org/)
+5. [Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)](https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-04-03 10:07:20 <br>
+  Last Automated Update: 2026-04-04 09:59:53 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
