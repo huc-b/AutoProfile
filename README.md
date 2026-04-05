@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-04-04 09:59:53** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-04-05 10:13:25** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
-2. [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
-3. [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos)
-4. [iNaturalist](https://www.inaturalist.org/)
-5. [Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)](https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans)
+1. [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/)
+2. [OpenScreen is an open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen)
+3. [Isseven](https://isseven.app/)
+4. [LLM Wiki – example of an "idea file"](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+5. [How many products does Microsoft have named 'Copilot'?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-04-04 09:59:53 <br>
+  Last Automated Update: 2026-04-05 10:13:25 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
