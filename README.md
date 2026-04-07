@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-04-06 10:22:39** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-04-07 10:10:34** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/)
-2. [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
-3. [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
-4. [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love)
-5. [Endian wars and anti-portability: this again?](https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/)
+1. [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
+2. [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)
+3. [Netflix Void Model: Video Object and Interaction Deletion](https://github.com/Netflix/void-model)
+4. [Launch HN: Freestyle – Sandboxes for Coding Agents](https://www.freestyle.sh/)
+5. [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-04-06 10:22:39 <br>
+  Last Automated Update: 2026-04-07 10:10:34 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
