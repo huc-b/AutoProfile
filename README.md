@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-04-10 10:24:11** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-04-11 10:03:53** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Microsoft PhotoDNA scanning problem](https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/)
-2. [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
-3. [How NASA Built Artemis II’s Fault-Tolerant Computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
-4. [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)
-5. [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/)
+1. [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
+2. [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
+3. [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
+4. [1D Chess](https://rowan441.github.io/1dchess/chess.html)
+5. [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-04-10 10:24:11 <br>
+  Last Automated Update: 2026-04-11 10:03:53 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
