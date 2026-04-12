@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-04-11 10:03:53** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-04-12 10:26:01** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
-2. [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/)
-3. [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po)
-4. [1D Chess](https://rowan441.github.io/1dchess/chess.html)
-5. [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension)
+1. [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
+2. [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html)
+3. [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
+4. [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+5. [Pijul a FOSS distributed version control system](https://pijul.org/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-04-11 10:03:53 <br>
+  Last Automated Update: 2026-04-12 10:26:01 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
