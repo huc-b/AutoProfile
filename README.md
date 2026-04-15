@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-04-14 10:25:21** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-04-15 10:23:09** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
-2. [GitHub Stacked PRs](https://github.github.com/gh-stack/)
-3. [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
-4. [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin)
-5. [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens)
+1. [Stop Flock](https://stopflock.com)
+2. [Claude Code Routines](https://code.claude.com/docs/en/routines)
+3. [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
+4. [The Orange Pi 6 Plus](https://taoofmac.com/space/reviews/2026/04/11/1900)
+5. [Fuck the cloud (2009)](https://ascii.textfiles.com/archives/1717)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-04-14 10:25:21 <br>
+  Last Automated Update: 2026-04-15 10:23:09 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
