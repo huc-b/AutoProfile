@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-04-20 10:31:31** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-04-21 10:27:15** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed](https://github.com/shivampkumar/trellis-mac)
-2. [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)
-3. [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
-4. [The Uncanny Valley and the Rising Power of Anti-AI Sentiment](https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/)
-5. [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
+1. [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
+2. [How to Make a Fast Dynamic Language Interpreter](https://zef-lang.dev/implementation)
+3. [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
+4. [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview)
+5. [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-04-20 10:31:31 <br>
+  Last Automated Update: 2026-04-21 10:27:15 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
