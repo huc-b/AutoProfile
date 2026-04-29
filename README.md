@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-04-28 10:43:42** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-04-29 10:43:21** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)
-2. [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
-3. [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
-4. [Meetings are forcing functions](https://www.mooreds.com/wordpress/archives/3734)
-5. [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/)
+1. [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
+2. [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
+3. [Claude system prompt bug wastes user money and bricks managed agents](https://github.com/anthropics/claude-code/issues/49363)
+4. [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
+5. [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-04-28 10:43:42 <br>
+  Last Automated Update: 2026-04-29 10:43:21 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
