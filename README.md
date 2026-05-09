@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-05-08 10:45:51** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-05-09 10:40:02** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
-2. [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
-3. [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
-4. [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
-5. [The Disappearance of the Public Bench](https://placesjournal.org/article/the-disappearance-of-the-public-bench/)
+1. [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
+2. [OpenAI's WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/)
+3. [People Hate AI Art](https://mccue.dev/pages/5-8-26-ai-art)
+4. [The React2Shell Story](https://lachlan.nz/blog/the-react2shell-story/)
+5. [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-05-08 10:45:51 <br>
+  Last Automated Update: 2026-05-09 10:40:02 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
