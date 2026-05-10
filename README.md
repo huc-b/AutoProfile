@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-05-09 10:40:02** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-05-10 10:45:40** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
-2. [OpenAI's WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/)
-3. [People Hate AI Art](https://mccue.dev/pages/5-8-26-ai-art)
-4. [The React2Shell Story](https://lachlan.nz/blog/the-react2shell-story/)
-5. [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+1. [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310)
+2. [Internet Archive Switzerland](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/)
+3. [Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)
+4. [I’ve banned query strings](https://chrismorgan.info/no-query-strings)
+5. [The Serial TTL connector we deserve](https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-05-09 10:40:02 <br>
+  Last Automated Update: 2026-05-10 10:45:40 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
