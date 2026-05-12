@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-05-11 10:54:51** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-05-12 10:46:53** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
-2. [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
-3. [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
-4. [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
-5. [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/)
+1. [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
+2. [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
+3. [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
+4. [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage)
+5. [Show HN: A modern Music Player Daemon based on Rockbox firmware](https://github.com/tsirysndr/rockbox-zig)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-05-11 10:54:51 <br>
+  Last Automated Update: 2026-05-12 10:46:53 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
