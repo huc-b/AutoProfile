@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-05-14 10:54:25** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-05-15 10:55:02** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Scorched Earth 2000 is back](http://www.scorch2000.com/web/)
-2. [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/)
-3. [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/)
-4. [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google)
-5. [Chess puzzle I found in my dad's old book](https://ardoedo.it/kempelen/)
+1. [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
+2. [A few words on DS4](https://antirez.com/news/165)
+3. [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption)
+4. [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
+5. [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-05-14 10:54:25 <br>
+  Last Automated Update: 2026-05-15 10:55:02 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
