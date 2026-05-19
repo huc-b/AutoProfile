@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-05-18 11:29:50** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-05-19 10:58:09** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [GenCAD](https://gencad.github.io/)
-2. [There Is No 'Hard Problem of Consciousness'](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/)
-3. [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
-4. [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/)
-5. [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
+1. [Click (2016)](https://clickclickclick.click/)
+2. [Anthropic co-founder to present AI encyclical alongside Pope Leo XIV](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html)
+3. [Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
+4. [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)
+5. [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-05-18 11:29:50 <br>
+  Last Automated Update: 2026-05-19 10:58:09 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
