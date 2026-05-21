@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-05-20 10:58:25** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-05-21 11:29:07** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)
-2. [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
-3. [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/)
-4. [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/)
-5. [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
+1. [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
+2. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
+3. [What is Demand Coop and why tech workers should join one](https://cahootzcoops.com/blog/what-is-a-demand-coop)
+4. [Show HN: I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene)
+5. [DOS Zone](https://dos.zone/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-05-20 10:58:25 <br>
+  Last Automated Update: 2026-05-21 11:29:07 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
