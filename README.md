@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-05-21 11:29:07** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-05-22 11:28:03** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
-2. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
-3. [What is Demand Coop and why tech workers should join one](https://cahootzcoops.com/blog/what-is-a-demand-coop)
-4. [Show HN: I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene)
-5. [DOS Zone](https://dos.zone/)
+1. [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
+2. [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
+3. [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
+4. [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
+5. [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-05-21 11:29:07 <br>
+  Last Automated Update: 2026-05-22 11:28:03 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
