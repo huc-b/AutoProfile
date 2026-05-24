@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-05-23 10:47:32** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-05-24 11:24:45** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
-2. [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
-3. [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
-4. [Is AI Profitable Yet?](https://isaiprofitable.com/)
-5. [Blood Pumping Mechanism of the Hoof](https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/)
+1. [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
+2. [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)
+3. [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)
+4. [Time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
+5. [Green card seekers must leave U.S. to apply, Trump administration says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-05-23 10:47:32 <br>
+  Last Automated Update: 2026-05-24 11:24:45 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
