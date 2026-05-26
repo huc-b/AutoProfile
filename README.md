@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-05-25 11:36:31** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-05-26 10:55:24** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
-2. [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
-3. [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
-4. [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
-5. [White Rabbit – sub-nanosecond synchronization for large distributed systems](https://ohwr.org/projects/white-rabbit/)
+1. [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+2. [Taking a walk may lead to more creativity than sitting, study finds (2014)](https://www.apa.org/news/press/releases/2014/04/creativity-walk)
+3. [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)
+4. [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/)
+5. [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-05-25 11:36:31 <br>
+  Last Automated Update: 2026-05-26 10:55:24 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
