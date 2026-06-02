@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-06-01 11:50:57** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-06-02 11:43:14** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Shift from a Leader-Follower to a Leader-Leader Approach](https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a)
-2. [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
-3. [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)
-4. [New Beam Spring Keyboards](https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/)
-5. [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
+1. [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+2. [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
+3. [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
+4. [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more)
+5. [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-06-01 11:50:57 <br>
+  Last Automated Update: 2026-06-02 11:43:14 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
