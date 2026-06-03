@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-06-02 11:43:14** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-06-03 11:53:19** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
-2. [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
-3. [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
-4. [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more)
-5. [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
+1. [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
+2. [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
+3. [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/)
+4. [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)
+5. [Agentic Mfw](https://agenticmotherfucking.website)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-06-02 11:43:14 <br>
+  Last Automated Update: 2026-06-03 11:53:19 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
