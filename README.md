@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-06-12 11:42:33** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-06-13 11:31:04** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
-2. [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)
-3. [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
-4. [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
-5. [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
+1. [Open Source AI Must Win](https://opensourceaimustwin.com/?share=v2)
+2. [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
+3. [We've suspended access to Claude Mythos 5 and Claude Fable 5](https://status.claude.com/incidents/s9w82lp9dcn9)
+4. [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
+5. [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-06-12 11:42:33 <br>
+  Last Automated Update: 2026-06-13 11:31:04 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
