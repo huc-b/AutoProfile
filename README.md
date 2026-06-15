@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-06-14 11:51:15** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-06-15 12:03:14** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [The Redistribution of Housing Wealth Caused by Rent Control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf)
-2. [10th Gen Honda Civic Updates Are Signed with AOSP Test Keys](https://juniperspring.org/posts/honda-evil-valet/)
-3. [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html)
-4. [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314)
-5. [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
+1. [Your ePub Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
+2. [Write for One Person](https://wizardzines.com/comics/write-for-one-person/)
+3. [Even More Batteries Included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
+4. [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
+5. [21 years and counting of 'eight fallacies of distributed computing' (2025)](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-06-14 11:51:15 <br>
+  Last Automated Update: 2026-06-15 12:03:14 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
