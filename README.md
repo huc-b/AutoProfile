@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-06-15 12:03:14** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-06-16 11:53:28** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Your ePub Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
-2. [Write for One Person](https://wizardzines.com/comics/write-for-one-person/)
-3. [Even More Batteries Included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
-4. [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
-5. [21 years and counting of 'eight fallacies of distributed computing' (2025)](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
+1. [Microsoft turns to AWS as GitHub faces AI capacity crunch](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch)
+2. [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
+3. [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
+4. [Iroh 1.0](https://www.iroh.computer/blog/v1)
+5. [Amazon Announces Multibillion-Dollar Data Center in Missouri](https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-06-15 12:03:14 <br>
+  Last Automated Update: 2026-06-16 11:53:28 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
