@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-06-20 11:28:13** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-06-21 11:58:38** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film)
-2. [Think of the children: How to force real ID for all internet traffic (2023)](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/)
-3. [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/)
-4. [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
-5. [Surprising Economics of Load-Balanced Systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
+1. [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
+2. [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
+3. [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/)
+4. [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
+5. [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-06-20 11:28:13 <br>
+  Last Automated Update: 2026-06-21 11:58:38 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
