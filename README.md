@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-06-21 11:58:38** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-06-22 11:59:53** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
-2. [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
-3. [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/)
-4. [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
-5. [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
+1. [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
+2. [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
+3. [Sakana Fugu](https://sakana.ai/fugu/)
+4. [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
+5. [Memory Safe Inline Assembly](https://fil-c.org/inlineasm)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-06-21 11:58:38 <br>
+  Last Automated Update: 2026-06-22 11:59:53 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
