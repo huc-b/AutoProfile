@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-06-23 10:57:45** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-06-24 11:23:15** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
-2. [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses)
-3. [Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2)
-4. [In Praise of Memcached](https://jchri.st/blog/in-praise-of-memcached/)
-5. [Polymarket's viral videos showed people winning big, but the bets were fake](https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/)
+1. [How the war on terror primed America for autocracy](https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy)
+2. [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
+3. [Jerry's Map](http://www.jerrysmap.com/the-map)
+4. [A man was gifted his dream car by Kevin Mitnick, who he helped put in prison](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison)
+5. [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-06-23 10:57:45 <br>
+  Last Automated Update: 2026-06-24 11:23:15 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
