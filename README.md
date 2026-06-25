@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-06-24 11:23:15** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-06-25 10:57:57** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [How the war on terror primed America for autocracy](https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy)
-2. [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
-3. [Jerry's Map](http://www.jerrysmap.com/the-map)
-4. [A man was gifted his dream car by Kevin Mitnick, who he helped put in prison](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison)
-5. [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/)
+1. [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)
+2. [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
+3. [Bible as RAG Database](https://www.crosscanon.com/)
+4. [Blogging can just be stating the obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
+5. [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-06-24 11:23:15 <br>
+  Last Automated Update: 2026-06-25 10:57:57 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
