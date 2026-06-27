@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-06-26 11:29:24** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-06-27 10:52:58** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
-2. [Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
-3. [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
-4. [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
-5. [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
+1. [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
+2. [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
+3. [Show HN: Hacker News on a Train Station Style Flip Board](https://popflame.quickish.space/hn-flipboard/)
+4. [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
+5. [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-06-26 11:29:24 <br>
+  Last Automated Update: 2026-06-27 10:52:58 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
