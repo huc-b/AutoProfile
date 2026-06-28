@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-06-27 10:52:58** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-06-28 11:35:25** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
-2. [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
-3. [Show HN: Hacker News on a Train Station Style Flip Board](https://popflame.quickish.space/hn-flipboard/)
-4. [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
-5. [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)
+1. [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
+2. [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev)
+3. [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)
+4. [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
+5. [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-06-27 10:52:58 <br>
+  Last Automated Update: 2026-06-28 11:35:25 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
