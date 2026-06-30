@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-06-29 11:39:55** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-06-30 11:27:44** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
-2. [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
-3. [Better Images of AI](https://betterimagesofai.org/)
-4. [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/)
-5. [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013)
+1. [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
+2. [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
+3. [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/)
+4. [Memory Safe Context Switching (longjmp, setjmp) in Fil-C](https://fil-c.org/context_switches)
+5. [Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-06-29 11:39:55 <br>
+  Last Automated Update: 2026-06-30 11:27:44 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
