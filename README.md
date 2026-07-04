@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-07-03 10:44:32** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-07-04 10:40:31** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
-2. [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
-3. [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
-4. [Right to Local Intelligence](https://righttointelligence.org/)
-5. [GitHub is proud to announce that you can now obtain your public repo on CD-ROM](https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl)
+1. [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
+2. [Leanstral 1.5: Proof Abundance for All](https://mistral.ai/news/leanstral-1-5/)
+3. [GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell](https://www.wafer.ai/blog/glm52-amd)
+4. [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge)
+5. [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-07-03 10:44:32 <br>
+  Last Automated Update: 2026-07-04 10:40:31 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
