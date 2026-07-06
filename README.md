@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-07-05 10:51:23** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-07-06 10:58:05** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Scientists reverse brain aging, with a nasal spray](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/)
-2. [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
-3. [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
-4. [Google Books (or similar) all book scans – $200k bounty (2025)](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234)
-5. [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets)
+1. [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
+2. [OpenPrinter](https://www.opentools.studio/)
+3. [Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
+4. [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
+5. [Organic Maps](https://organicmaps.app/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-07-05 10:51:23 <br>
+  Last Automated Update: 2026-07-06 10:58:05 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
