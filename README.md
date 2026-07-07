@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-07-06 10:58:05** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-07-07 10:52:00** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
-2. [OpenPrinter](https://www.opentools.studio/)
-3. [Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
-4. [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
-5. [Organic Maps](https://organicmaps.app/)
+1. [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
+2. [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
+3. [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
+4. [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
+5. [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-07-06 10:58:05 <br>
+  Last Automated Update: 2026-07-07 10:52:00 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
