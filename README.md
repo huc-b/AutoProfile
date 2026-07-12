@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-07-11 10:26:36** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-07-12 10:32:00** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
-2. [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
-3. [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
-4. [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)
-5. [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
+1. [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
+2. [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)
+3. [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org)
+4. [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy)
+5. [A pure scheme web programming tool](https://goeteia.dev)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-07-11 10:26:36 <br>
+  Last Automated Update: 2026-07-12 10:32:00 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
