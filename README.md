@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-07-16 10:23:44** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-07-17 10:26:54** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
-2. [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
-3. [Grok Build is open source](https://github.com/xai-org/grok-build)
-4. [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/)
-5. [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
+1. [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
+2. [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
+3. [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+4. [Decoy Font](https://www.mixfont.com/experiments/decoy-font)
+5. [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-07-16 10:23:44 <br>
+  Last Automated Update: 2026-07-17 10:26:54 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
