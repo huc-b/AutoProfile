@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-07-21 10:27:32** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-07-22 10:26:10** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
-2. [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes)
-3. [Kimi Work](https://www.kimi.com/products/kimi-work)
-4. [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
-5. [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
+1. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+2. [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
+3. [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
+4. [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
+5. [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-07-21 10:27:32 <br>
+  Last Automated Update: 2026-07-22 10:26:10 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
