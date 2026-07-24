@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-07-23 10:30:53** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-07-24 10:27:56** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254)
-2. [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
-3. [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
-4. [Run large language models at home, BitTorrent‑style](https://petals.dev/)
-5. [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
+1. [98.css](https://jdan.github.io/98.css/#status-bar)
+2. [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
+3. [The Visual 6502](http://visual6502.org/JSSim/index.html)
+4. [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
+5. [The Beam Engine](https://glinscott.github.io/beam-engine/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-07-23 10:30:53 <br>
+  Last Automated Update: 2026-07-24 10:27:56 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
