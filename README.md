@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-07-27 10:40:59** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-07-28 10:20:58** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
-2. [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
-3. [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
-4. [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html)
-5. [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time)
+1. [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
+2. [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md)
+3. [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/)
+4. [DConf 2026 in London](https://dconf.org/2026/index.html)
+5. [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-07-27 10:40:59 <br>
+  Last Automated Update: 2026-07-28 10:20:58 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
