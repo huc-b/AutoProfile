@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-07-31 10:35:09** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-08-01 10:33:44** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
-2. [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
-3. [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
-4. [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
-5. [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
+1. [Elevators](https://john.fun/elevators)
+2. [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm)
+3. [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
+4. [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus)
+5. [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-07-31 10:35:09 <br>
+  Last Automated Update: 2026-08-01 10:33:44 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
