@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-08-02 10:32:41** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-08-03 10:34:34** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
-2. [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
-3. [Diátaxis](https://diataxis.fr/)
-4. [ASRock BC-250: Building the Budget Steam Machine](https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/)
-5. [RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2](https://www.rfc-editor.org/rfc/rfc10015.html)
+1. [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
+2. [Why Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/)
+3. [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319)
+4. [Show HN: Isopolis – isometric pixel map of SF](https://sf.isopolis.city/)
+5. [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-08-02 10:32:41 <br>
+  Last Automated Update: 2026-08-03 10:34:34 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
