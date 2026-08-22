@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-08-21 09:07:29** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-08-22 09:03:43** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-2. [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
-3. [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
-4. [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
-5. [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
+1. [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
+2. [Felony Bench](https://www.felonybench.com/)
+3. [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
+4. [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
+5. [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-08-21 09:07:29 <br>
+  Last Automated Update: 2026-08-22 09:03:43 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
