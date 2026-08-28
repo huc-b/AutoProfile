@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-08-27 15:15:44** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-08-28 17:29:25** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
-2. [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive)
-3. [Mechanical Turk shutting down September 30](https://www.mturk.com/)
-4. [Pnpm 12.0](https://pnpm.io/blog/releases/12.0)
-5. [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)
+1. [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+2. [Overcooked? Why robotic pizza makers are failing](https://www.bbc.com/news/articles/czxq0wgkkdjo)
+3. [That's a Lot of YAML](https://noyaml.com/)
+4. [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
+5. [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-08-27 15:15:44 <br>
+  Last Automated Update: 2026-08-28 17:29:25 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
