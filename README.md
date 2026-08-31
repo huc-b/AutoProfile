@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-08-30 11:35:34** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-08-31 11:35:01** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Bug Blindness](https://danluu.com/bug-blind/)
-2. [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
-3. [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
-4. [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/)
-5. [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/)
+1. [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
+2. [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+3. [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)
+4. [Matrox: Graphics for Professionals](https://www.abortretry.fail/p/matrox)
+5. [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-08-30 11:35:34 <br>
+  Last Automated Update: 2026-08-31 11:35:01 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
