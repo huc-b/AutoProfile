@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-09-02 10:50:10** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-09-03 10:54:11** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)
-2. [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
-3. [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
-4. [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
-5. [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
+1. [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
+2. [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+3. [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
+4. [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight)
+5. [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-09-02 10:50:10 <br>
+  Last Automated Update: 2026-09-03 10:54:11 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
