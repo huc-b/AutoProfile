@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-09-03 10:54:11** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-09-04 10:53:26** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
-2. [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
-3. [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
-4. [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight)
-5. [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
+1. [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+2. [.name Termination](https://neil.fraser.name/news/2026/09/03/)
+3. [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
+4. [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)
+5. [New type of dice guarantees no tie when deciding who goes first](https://www.cbc.ca/lite/story/9.7328614)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-09-03 10:54:11 <br>
+  Last Automated Update: 2026-09-04 10:53:26 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
