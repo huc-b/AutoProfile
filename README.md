@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-09-09 11:02:22** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-09-10 11:02:55** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance)
-2. [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
-3. [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
-4. [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
-5. [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
+1. [iPhone Duo](https://www.apple.com/iphone-duo/)
+2. [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+3. [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
+4. [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
+5. [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-09-09 11:02:22 <br>
+  Last Automated Update: 2026-09-10 11:02:55 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
