@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-09-10 11:02:55** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-09-11 10:58:24** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [iPhone Duo](https://www.apple.com/iphone-duo/)
-2. [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
-3. [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
-4. [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
-5. [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
+1. [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
+2. [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
+3. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
+4. [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)
+5. [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-09-10 11:02:55 <br>
+  Last Automated Update: 2026-09-11 10:58:24 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
