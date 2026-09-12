@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-09-11 10:58:24** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-09-12 11:05:28** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
-2. [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
-3. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
-4. [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)
-5. [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
+1. [A misalignment of AI in mathematics](https://mathandai.org/)
+2. [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
+3. [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
+4. [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
+5. [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-09-11 10:58:24 <br>
+  Last Automated Update: 2026-09-12 11:05:28 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
