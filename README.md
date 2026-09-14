@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-09-13 11:06:57** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-09-14 11:20:24** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [The Interim Computer Museum](https://icm.museum/)
-2. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
-3. [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
-4. [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
-5. [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/)
+1. [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+2. [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
+3. [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
+4. [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
+5. [Show HN: Is It Greg?](https://github.com/antoineleclair/is-it-greg)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-09-13 11:06:57 <br>
+  Last Automated Update: 2026-09-14 11:20:24 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
