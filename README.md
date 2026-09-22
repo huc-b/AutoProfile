@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-09-21 11:17:27** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-09-22 11:17:03** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
-2. [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
-3. [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
-4. [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
-5. [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)
+1. [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
+2. [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
+3. [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
+4. [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
+5. [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-09-21 11:17:27 <br>
+  Last Automated Update: 2026-09-22 11:17:03 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
