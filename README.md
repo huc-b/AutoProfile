@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-09-25 11:23:51** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-09-26 11:29:26** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
-2. [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
-3. [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
-4. [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
-5. [Jev and System One Models: Calibration Beats Accuracy](https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions)
+1. [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+2. [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+3. [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
+4. [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
+5. [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-09-25 11:23:51 <br>
+  Last Automated Update: 2026-09-26 11:29:26 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
