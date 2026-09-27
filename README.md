@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-09-26 11:29:26** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-09-27 11:38:01** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
-2. [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
-3. [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
-4. [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
-5. [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
+1. [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
+2. [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
+3. [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
+4. [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
+5. [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-09-26 11:29:26 <br>
+  Last Automated Update: 2026-09-27 11:38:01 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
