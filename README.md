@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-09-27 11:38:01** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-09-28 11:36:36** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
-2. [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
-3. [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
-4. [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
-5. [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
+1. [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
+2. [Self-parking car using genetic algorithm (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
+3. [Ember-1](https://fireworks.ai/blog/ember-1)
+4. [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+5. [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-09-27 11:38:01 <br>
+  Last Automated Update: 2026-09-28 11:36:36 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
