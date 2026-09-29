@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-09-28 11:36:36** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-09-29 12:11:58** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
-2. [Self-parking car using genetic algorithm (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
-3. [Ember-1](https://fireworks.ai/blog/ember-1)
-4. [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
-5. [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
+1. [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
+2. [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/)
+3. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+4. [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
+5. [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-09-28 11:36:36 <br>
+  Last Automated Update: 2026-09-29 12:11:58 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
