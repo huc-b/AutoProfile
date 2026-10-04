@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-10-03 11:46:33** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-10-04 12:16:33** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
-2. [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
-3. [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
-4. [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer)
-5. [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f)
+1. [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
+2. [Bob Cringely Has Died](https://news.ycombinator.com/item?id=49949438)
+3. [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict)
+4. [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
+5. [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-10-03 11:46:33 <br>
+  Last Automated Update: 2026-10-04 12:16:33 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
