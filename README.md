@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-10-09 12:32:16** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-10-10 12:17:56** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
-2. [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
-3. [Theranos.world](https://www.theranos.world/)
-4. [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
-5. [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
+1. [REA Reverse – Engineer Anything](https://rea.tools/)
+2. [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
+3. [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
+4. [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)
+5. [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-10-09 12:32:16 <br>
+  Last Automated Update: 2026-10-10 12:17:56 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
