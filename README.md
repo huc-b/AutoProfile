@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-10-11 11:57:31** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-10-12 12:17:54** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)
-2. [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
-3. [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
-4. [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
-5. [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
+1. [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
+2. [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
+3. [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
+4. [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+5. [Cartographers of North Korea (2019)](https://cartographers-nk.wonyoung.so/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-10-11 11:57:31 <br>
+  Last Automated Update: 2026-10-12 12:17:54 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
