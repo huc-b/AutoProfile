@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-10-12 12:17:54** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-10-13 13:26:55** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
-2. [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
-3. [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
-4. [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
-5. [Cartographers of North Korea (2019)](https://cartographers-nk.wonyoung.so/)
+1. [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928)
+2. [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
+3. [GLM-Legal](https://z.ai/blog/glm-legal)
+4. [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
+5. [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-10-12 12:17:54 <br>
+  Last Automated Update: 2026-10-13 13:26:55 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
