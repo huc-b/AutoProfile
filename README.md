@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-10-13 13:26:55** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-10-14 11:30:16** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928)
-2. [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
-3. [GLM-Legal](https://z.ai/blog/glm-legal)
-4. [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
-5. [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
+1. [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+2. [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
+3. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
+4. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
+5. [Apple HomeView](https://www.apple.com/apple-homeview/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-10-13 13:26:55 <br>
+  Last Automated Update: 2026-10-14 11:30:16 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
