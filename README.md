@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-10-14 11:30:16** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-10-15 11:09:56** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Gemini 4 Argon](https://deepmind.google/models/gemini/)
-2. [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
-3. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
-4. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
-5. [Apple HomeView](https://www.apple.com/apple-homeview/)
+1. [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
+2. [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
+3. [Tiny Little Office](https://tinylittleoffice.com/)
+4. [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+5. [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-10-14 11:30:16 <br>
+  Last Automated Update: 2026-10-15 11:09:56 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
