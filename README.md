@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-10-19 11:13:15** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-10-20 11:22:06** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
-2. [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
-3. [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
-4. [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
-5. [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448)
+1. [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/)
+2. [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
+3. [Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD](https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd)
+4. [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
+5. [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-10-19 11:13:15 <br>
+  Last Automated Update: 2026-10-20 11:22:06 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
