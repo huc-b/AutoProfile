@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-10-21 11:17:11** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-10-22 11:15:31** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
-2. [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
-3. [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
-4. [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
-5. [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
+1. [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
+2. [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
+3. [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
+4. [Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552)
+5. [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-10-21 11:17:11 <br>
+  Last Automated Update: 2026-10-22 11:15:31 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
