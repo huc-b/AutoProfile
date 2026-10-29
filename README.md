@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-10-28 11:57:32** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-10-29 12:20:33** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code)
-2. [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
-3. [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
-4. [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
-5. [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
+1. [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
+2. [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
+3. [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
+4. [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
+5. [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-10-28 11:57:32 <br>
+  Last Automated Update: 2026-10-29 12:20:33 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
