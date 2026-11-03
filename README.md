@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-11-02 12:23:01** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-11-03 13:19:19** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
-2. [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
-3. [Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)
-4. [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
-5. [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved)
+1. [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
+2. [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
+3. [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+4. [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)
+5. [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-11-02 12:23:01 <br>
+  Last Automated Update: 2026-11-03 13:19:19 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
