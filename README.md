@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-11-03 13:19:19** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-11-04 12:48:39** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
-2. [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
-3. [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-4. [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)
-5. [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
+1. [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
+2. [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
+3. [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+4. [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
+5. [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-11-03 13:19:19 <br>
+  Last Automated Update: 2026-11-04 12:48:39 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
