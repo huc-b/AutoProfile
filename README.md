@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-11-04 12:48:39** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-11-05 13:03:34** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
-2. [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
-3. [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
-4. [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
-5. [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/)
+1. [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
+2. [Images 2.6](https://openai.com/index/introducing-images-2-6/)
+3. [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+4. [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)
+5. [Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-11-04 12:48:39 <br>
+  Last Automated Update: 2026-11-05 13:03:34 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
