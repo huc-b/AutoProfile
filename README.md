@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-11-06 13:03:23** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-11-07 12:37:52** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
-2. [sshole](https://sshhole.com)
-3. [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
-4. [Pwn.college](https://pwn.college/)
-5. [Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke)
+1. [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
+2. [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
+3. [I Toured Unitree's Factory. I'm More Bullish on the West](https://josef.cn/blog/unitree)
+4. [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
+5. [What do the next 4000 emoji look like?](https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-11-06 13:03:23 <br>
+  Last Automated Update: 2026-11-07 12:37:52 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
