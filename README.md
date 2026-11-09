@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-11-08 12:25:07** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-11-09 12:38:26** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
-2. [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
-3. [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)
-4. [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
-5. [Amsterdam School](https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html)
+1. [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
+2. [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
+3. [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
+4. [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
+5. [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-11-08 12:25:07 <br>
+  Last Automated Update: 2026-11-09 12:38:26 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
