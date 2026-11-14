@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-11-13 13:00:51** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-11-14 12:54:14** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
-2. [Switcher (2004)](https://folklore.org/Switcher.html)
-3. [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
-4. [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
-5. [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
+1. [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
+2. [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
+3. [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+4. [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
+5. [What Happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-11-13 13:00:51 <br>
+  Last Automated Update: 2026-11-14 12:54:14 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
