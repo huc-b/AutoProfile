@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-11-16 12:43:23** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-11-17 14:30:14** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
-2. [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
-3. [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
-4. [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
-5. [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
+1. [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
+2. [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
+3. [BugMeNot has closed](https://www.bugmenot.com/)
+4. [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+5. [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-11-16 12:43:23 <br>
+  Last Automated Update: 2026-11-17 14:30:14 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
