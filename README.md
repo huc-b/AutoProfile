@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-11-18 13:52:56** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-11-19 13:52:52** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
-2. [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
-3. [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)
-4. [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
-5. [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
+1. [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
+2. [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+3. [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
+4. [Unreal Tournament 2004 in the Browser](https://ut2004.dev/)
+5. [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-11-18 13:52:56 <br>
+  Last Automated Update: 2026-11-19 13:52:52 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
