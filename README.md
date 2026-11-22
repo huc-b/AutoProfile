@@ -7,18 +7,18 @@
 
 | 📅 北京时间 | 🌤️ 今日天气 |
 | :---: | :---: |
-| **2026-11-21 13:36:30** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
+| **2026-11-22 13:01:08** | <img src="https://wttr.in/Beijing?format=%c+%t+%w&m" height="25"> |
 
 </div>
 
 ---
 
 ### 📰 Hacker News 热点 (Top 5)
-1. [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
-2. [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
-3. [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
-4. [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
-5. [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
+1. [Toyota, Nissan, and Honda to Standardize Parts to Lower Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+2. [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
+3. [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+4. [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
+5. [Sandwich Simulator](https://stulle.app/)
 
 
 ---
@@ -30,6 +30,6 @@
 
 ---
 <div align="right">
-  Last Automated Update: 2026-11-21 13:36:30 <br>
+  Last Automated Update: 2026-11-22 13:01:08 <br>
   <i>Powered by Python & GitHub Actions</i>
 </div>
